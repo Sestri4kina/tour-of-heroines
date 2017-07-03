@@ -20,9 +20,20 @@ nav a:visited, a:link {
   color: #607D8B;
 }
 nav a:hover {
-  color: #039be5;
+  color: #84419D;
   background-color: #CFD8DC;
 }
 nav a.active {
-  color: #039be5;
+  color: #84419D;
 }
+p {
+  margin-top: 50px;
+}
+#nobel-prize {
+  text-decoration: none;
+  color: #999;
+}
+#nobel-prize:hover {
+  color: #84419D;
+  cursor: pointer;
+  }
